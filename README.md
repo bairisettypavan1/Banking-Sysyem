@@ -1,2 +1,3 @@
-# Developed an interface that includes all ATM functionalities.
+# ATM SIMULATION
+Developed an interface that includes all ATM functionalities.
 
